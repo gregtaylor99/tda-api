@@ -63,14 +63,6 @@ adx = ta.adx(df['High'], df['Low'], df['Close'])
 #dftotal = pd.concat(dfpd, dfadx)
 #print(dftotal)
 
-
-
-
-
-
-
-
-
 ##from tda import auth, client
 ##import json
 

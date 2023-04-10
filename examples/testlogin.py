@@ -1,5 +1,5 @@
 import json
-from tda import auth, client
+#from tda import auth, client
 
 account_id = 686232781
 token_path = 'token'
